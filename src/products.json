@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Hamburguer",
+    "category": "Sandwiches",
+    "price": 50,
+    "img": "https://i.imgur.com/Vng6VzV.png"
+  },
+  {
+    "id": 2,
+    "name": "X-Burguer",
+    "category": "Sandwiches",
+    "price": 57,
+    "img": "https://i.imgur.com/soOUeeW.png"
+  },
+  {
+    "id": 3,
+    "name": "BigMax-Burguer",
+    "category": "Sandwiches",
+    "price": 70,
+    "img": "https://i.imgur.com/eEzZzcF.png"
+  },
+  {
+    "id": 4,
+    "name": "芬達汽水",
+    "category": "Drinks",
+    "price": 25,
+    "img": "https://i.imgur.com/YuIbfCi.png"
+  },
+  {
+    "id": 5,
+    "name": "Coca-Cola",
+    "category": "Drinks",
+    "price": 35,
+    "img": "https://i.imgur.com/KC2ihEN.png"
+  },
+  {
+    "id": 6,
+    "name": "麥片奶昔",
+    "category": "Drinks",
+    "price": 59,
+    "img": "https://i.imgur.com/iNkD4Pq.png"
+  }
+]
